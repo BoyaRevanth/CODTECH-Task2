@@ -29,3 +29,5 @@ While prevention is widely acknowledged as a cornerstone of cybersecurity, this 
 The Red and Blue mission incorporates an infrastructure comprising a core system and a series of network segments, the count of which corresponds to the number of participating teams. This intricate setup is responsible for scrutinizing the services hosted on each team’s virtual machines, validating submitted flags, and allocating points accordingly. Each distinct segment is exclusively designated for a particular team and encompasses a cluster of VMs equipped with diverse vulnerable services, totaling six such segments. The interconnection of these segments is facilitated by a router, which enforces a set of rules governing inter-team permissions. These rules include restrictions such as permitting solely direct access to a team’s own network and implementing network address translation to obscure the actual IPs of both the adversary teams and the core system.
 
 ![information-14-00587-g004](https://github.com/user-attachments/assets/c1d1d2e1-5f7b-418c-b4ff-6dbaa44f3d62)
+
+![information-14-00587-g003](https://github.com/user-attachments/assets/b091e787-ba6d-43d8-b937-67c9b9b5952e)
